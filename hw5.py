@@ -1,3 +1,6 @@
+#I think this chunk of code shows my understanding of programming language, especially self-interpret languages. Even though this is a basic version
+
+
 import sys
 
 tokens = (
